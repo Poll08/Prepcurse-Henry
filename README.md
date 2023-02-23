@@ -1,2 +1,1 @@
-# Prepcurse-Henry
-este es un repositorio de prueba de modulo 2  del Prepcurse Henry
+Este es un prueba de como clonar un repo y subirlo a mi Github 
